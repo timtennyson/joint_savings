@@ -18,6 +18,7 @@ Open Remix in your web browser. Configure it to run using the javascript environ
 
 !['DeployContract'](https://github.com/timtennyson/joint_savings/blob/main/deployContract.jpg)
 !['Deposit 5 Eth'](https://github.com/timtennyson/joint_savings/blob/main/deposit5eth.jpg)
+!['contractBalance'](https://github.com/timtennyson/joint_savings/blob/main/contractBalance.jpg)
 
 ## Contributors
 Tim Tennyson
